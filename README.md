@@ -1,3 +1,5 @@
+**ATTENTION: No longer maintent; check https://github.com/Custom-avatar-hints/hints**
+
 <h1 align=center> Custom-Avatar-Hint </p>
 <p align=center>A pure database of custom avatar hints</p>
 
